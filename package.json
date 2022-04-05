@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@amandeep131313/root",
   "private": true,
   "devDependencies": {
     "cz-conventional-changelog": "^3.3.0",
