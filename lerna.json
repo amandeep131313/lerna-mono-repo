@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "4.0.0",
+  "version": "4.0.1",
   "scripts": {
     "start": "lerna run start",
     "test": "lerna run test",
