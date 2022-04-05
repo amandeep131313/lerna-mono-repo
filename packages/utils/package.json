@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@amandeep131313/utils",
   "version": "4.0.0",
   "description": "",
   "main": "inde",
@@ -8,5 +8,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "ad4a9d5aa0238456353be3865577982af858e4c8"
 }
