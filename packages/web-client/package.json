@@ -15,7 +15,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "echo testing React",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "precommit":"echo 'server commit running'"
+
   },
   "eslintConfig": {
     "extends": [
