@@ -1,5 +1,5 @@
 {
-  "name": "server-api",
+  "name": "@amandeep131313/server-api",
   "version": "4.0.1",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,5 @@
     "body-parser": "^1.20.0",
     "express": "^4.17.3"
   },
-  "gitHead": "ad4a9d5aa0238456353be3865577982af858e4c8"
+  "gitHead": "9e525c3d86f111758ac817ab8202aa5f93ee0ebe"
 }
