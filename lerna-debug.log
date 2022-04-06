@@ -1,0 +1,22 @@
+42 error Error: Command failed with exit code 1: git commit -m v3.0.0
+42 error info cli using local version of lerna
+42 error lerna notice cli v4.0.0
+42 error lerna notice filter changed since "HEAD"
+42 error lerna notice filter excluding dependents
+42 error lerna info Looking for changed packages since HEAD
+42 error lerna info Executing command in 2 packages: "npm run precommit"
+42 error server-api: > server-api@3.0.0 precommit
+42 error server-api: > echo 'server commit running'
+42 error server-api: 'server commit running'
+42 error web-client: > web-client@3.0.0 precommit
+42 error web-client: > echo 'server commit running'
+42 error web-client: 'server commit running'
+42 error lerna success run Ran npm script 'precommit' in 2 packages in 2.7s:
+42 error lerna success - server-api
+42 error lerna success - web-client
+42 error .git/COMMIT_EDITMSG
+42 error Aborting commit. Your commit message is invalid.
+42 error     at makeError (C:\Projects\lerna\lerna-repo\node_modules\execa\lib\error.js:60:11)
+42 error     at handlePromise (C:\Projects\lerna\lerna-repo\node_modules\execa\index.js:118:26)
+42 error     at processTicksAndRejections (internal/process/task_queues.js:93:5)
+42 error     at async Promise.all (index 0)
